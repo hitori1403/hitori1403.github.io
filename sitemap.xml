@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hitori1403.github.io/2025/06/13/Cope-With-New-Lexmark-Firmware-Protection/</loc>
+    
+    <lastmod>2025-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hitori1403.github.io/2025/06/12/New-home/</loc>
     
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2025-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,12 +40,26 @@
 
   <url>
     <loc>https://hitori1403.github.io/</loc>
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2025-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://hitori1403.github.io/tags/reverse-engineering/</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://hitori1403.github.io/categories/iot/</loc>
+    <lastmod>2025-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
